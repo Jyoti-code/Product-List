@@ -1,0 +1,219 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Esprit Ruffle Shirt",
+      "price": 10.99,
+      "category": "Women",
+      "image": "https://media.istockphoto.com/id/1398610798/photo/young-woman-in-linen-shirt-shorts-and-high-heels-pointing-to-the-side-and-talking.webp?b=1&s=170667a&w=0&k=20&c=rQlOFuWCQU8efYVcJuJmXd831QNHco6kmAvHFcbwlEk="
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Herschel supply",
+        "price": 11.99,
+        "category": "Women",
+        "image": "https://images.unsplash.com/photo-1612336307429-8a898d10e223?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGRyZXNzfGVufDB8fDB8fHww"
+      
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Only Check Trouser",
+        "price": 12.99,
+        "category": "Women",
+        "image": "https://images.unsplash.com/photo-1580651214613-f4692d6d138f?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D"
+      
+    },
+
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "Classic Trench Coat",
+      "price": 13.99,
+      "category": "Women",
+      "image": "https://i.pinimg.com/1200x/81/99/6e/81996e36b2c0cfe6c1710ec87408053f.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Front Pocket Jumper",
+        "price": 14.99,
+        "category": "Women",
+        "image": "https://plus.unsplash.com/premium_photo-1698749257448-299b0f1b7c36?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D"
+      
+    },
+    {
+        "id": 6,
+        "title": "Product 6",
+        "description": "Pretty Little Thing",
+        "price": 15,
+        "category": "Women",
+        "image": "https://img.freepik.com/premium-photo/studio-shot-young-handsome-woman-emotional-gestures_731930-34565.jpg"
+      
+    },
+
+    {
+      "id": 7,
+      "title": "Front Pocket Jumper",
+      "description": "Front Pocket Jumper",
+      "price": 20,
+      "category": "Women",
+      "image": "https://cdn.shopify.com/s/files/1/0617/6414/1261/products/rose-gold-dress-DQ-2919-a.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Product 8",
+        "description": "Front Pocket Jumper",
+        "price": 55,
+        "category": "Man",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-062b4b6b47e100bfd3ecd8825cf06c14"
+      
+    },
+    {
+        "id": 9,
+        "title": "Product 9",
+        "description": "Description for Product 3",
+        "price": 30,
+        "category": "Man",
+        "image": "https://img.freepik.com/premium-photo/handsome-confident-hipster-modelsexy-unshaven-man-dressed-summer-stylish-green-hoodie-jeans-clothes-fashion-male-with-curly-hairstyle-posing-studio-isolated-grey_158538-26651.jpg"
+      
+    },
+
+    {
+      "id": 10,
+      "title": "Product 10",
+      "description": "Front Pocket Jumper",
+      "price": 47,
+      "category": "Man",
+      "image": "https://images.unsplash.com/photo-1593757147298-e064ed1419e5?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1lbiUyMGNsb3RoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": 11,
+        "title": "Product 11",
+        "description": "Front Pocket Jumper",
+        "price": 33,
+        "category": "Man",
+        "image": "https://plus.unsplash.com/premium_photo-1682430259342-427ec43ebc38?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D"
+      
+    },
+    {
+        "id": 12,
+        "title": "Product 12",
+        "description": "Description for Product 3",
+        "price": 43,
+        "category": "Women",
+        "image": "https://cdn.shopclues.com/images1/thumbnails/116976/320/320/153321962-116976924-1678956110.jpg"
+      
+    },
+
+    {
+      "id": 13,
+      "title": "Product 1",
+      "description": "Shirt in Stretch Cotton",
+      "price": 10.99,
+      "category": "Man",
+      "image": "https://img.freepik.com/premium-photo/men-slim-fit-single-breasted-suit_953724-640.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Product 2",
+        "description": "Shirt in Stretch Cotton",
+        "price": 11.99,
+        "category": "Man",
+        "image": "https://img.freepik.com/premium-photo/black-tshirt-young-man-isolated_143092-2409.jpg"
+      
+    },
+    {
+        "id": 15,
+        "title": "Product 3",
+        "description": "Front Pocket Jumper",
+        "price": 12.99,
+        "category": "Child",
+        "image": "https://plus.unsplash.com/premium_photo-1691367782367-2bd37f646abc?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hpbGQlMjBjbG90aGVzfGVufDB8fDB8fHww"
+      
+    },
+
+    {
+      "id": 16,
+      "title": "Product 4",
+      "description": "Shirt in Stretch Cotton",
+      "price": 13.99,
+      "category": "Child",
+      "image": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-kid-girl-stylish-jeans-clothes-smiling-standing-white-kids-fashion-concept_155003-20300.jpg?w=2000"
+    },
+    {
+        "id": 17,
+        "title": "Product 5",
+        "description": "Pieces Metallic Printed",
+        "price": 14.99,
+        "category": "Child",
+        "image": "https://img.freepik.com/premium-photo/boy-stands-tracksuit-child-monochromatic-clothes-monochromatic-background-vertica_98785-1062.jpg?w=2000"
+      
+    },
+    {
+        "id": 18,
+        "title": "Product 6",
+        "description": "Shirt in Stretch Cotton",
+        "price": 15,
+        "category": "Child",
+        "image": "https://www.btwonline.com/cdn/shop/products/BRT0036-WHT_1_1024x1024.jpg?v=1680935835"
+      
+    },
+
+    {
+      "id": 19,
+      "title": "Product 7",
+      "description": "Shirt in Stretch Cotton",
+      "price": 20,
+      "category": "Child",
+      "image": "https://libertyco.com.au/cdn/shop/files/Jamie-Kay-Gemima-Dress-Chloe-Pink-Tint_1500x.jpg?v=1695259017"
+    },
+    {
+        "id": 20,
+        "title": "Product 8",
+        "description": "Pieces Metallic Printed",
+        "price": 55,
+        "category": "Child",
+        "image": "https://img.freepik.com/free-photo/cheerful-positive-girl-headphones-showing-thumb-up-isolated_171337-92.jpg"
+      
+    },
+    {
+        "id": 21,
+        "title": "Product 9",
+        "description": "Pretty Little Thing",
+        "price": 30,
+        "category": "Child",
+        "image": "https://westcoastfamilies.com/wp-content/uploads/2022/10/WCF2208p18d.jpeg"
+      
+    },
+
+    {
+      "id": 22,
+      "title": "Product 10",
+      "description": "Shirt in Stretch Cotton",
+      "price": 47,
+      "category": "Child",
+      "image": "https://i.pinimg.com/originals/6c/e2/4e/6ce24e084f569712dd4e4dbd7c2122c4.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Product 11",
+        "description": "Pretty Little Thing",
+        "price": 33,
+        "category": "Women",
+        "image": "https://img.freepik.com/free-photo/medium-shot-business-woman-holding-laptop_23-2149457705.jpg"
+      
+    },
+    {
+        "id": 24,
+        "title": "Product 12",
+        "description": "Pieces Metallic Printed",
+        "price": 43,
+        "category": "Women",
+        "image": "https://www.nyfifth.com/category/99992/lilac-bloom-lb756-reagan_ATRI-1860-LB756_NyFifth.jpg"
+      
+    }
+
+  ]
+  
